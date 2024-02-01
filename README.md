@@ -1,8 +1,5 @@
-# Python-Programming-Assignments
+# ECE-20875-Programming-Assignments
 
-This repository contains all of my work that I have done in python.
-
-Classes/Projects where I have used python:
-* ECE 20875
+This repository contains all of my work that I have done in ECE 20875 - Python for Data Science.
   * Bike Path Project is in the final project folder
 
